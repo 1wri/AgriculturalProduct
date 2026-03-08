@@ -28,6 +28,10 @@
 链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
 --来自百度网盘超级会员v3的分享
 
+通过网盘分享的文件：远程调试部署联系方式
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
 ## 二、11000论文参考
 
 ![img.png](imgs/img.png)
@@ -48,7 +52,5 @@
 
 ![img_7.png](imgs/img_7.png)
 
-通过网盘分享的文件：远程调试部署联系方式
-链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
---来自百度网盘超级会员v3的分享
+
 
